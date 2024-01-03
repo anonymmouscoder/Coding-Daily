@@ -13,6 +13,7 @@ Je suis heureux de vous présenter la dernière version disponible sur ce lien :
 
 ### ✨ Nouvelle version:
 - [Coding Daily V1.1](https://github.com/anonymmouscoder/Coding-Daily/releases/tag/apps).
+
 ### 🥀 Ancienne version:
 - [Coding Daily V1.0](https://t.me/gestionnaire_fichierbot?start=1869143336AgAD6xMAAljOmVA).
 
