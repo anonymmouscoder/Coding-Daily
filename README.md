@@ -12,10 +12,10 @@ Vous vous demandez sûrement ce que c'est, n'est-ce pas ? Eh bien, l'idée m'est
 
 ## 📲 Comment l'installer ?
 
-Cliquez ici pour télécharger la dernière version 1.0.2: [clique moi pour installer](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appsv2/codingdailyV2.apk).
+Cliquez ici pour télécharger la dernière version 1.0.2: [clique moi pour installer](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appsv2-stable/codingdailyV2.1.apk).
 
 ### ✨ Nouvelle version:
-- [Coding Daily V1.2](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appsv2/codingdailyV2.apk).
+- [Coding Daily V1.2](https://github.com/anonymmouscoder/Coding-Daily/releases/tag/appsv2-stable).
 
 ### 🥀 Ancienne version (Obsolète):
 - [Coding Daily V1.1](https://github.com/anonymmouscoder/Coding-Daily/releases/tag/apps).
