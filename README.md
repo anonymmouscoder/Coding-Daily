@@ -3,7 +3,8 @@
 [![Étoiles](https://img.shields.io/github/stars/anonymmouscoder/Coding-Daily)](https://github.com/anonymmouscoder/Coding-Daily/stargazers)
 [![Issues](https://img.shields.io/github/issues/anonymmouscoder/Coding-Daily)](https://github.com/anonymmouscoder/Coding-Daily/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/anonymmouscoder/Coding-Daily)](https://github.com/anonymmouscoder/Coding-Daily/pulls)
-
+![GitHub Sponsors](https://img.shields.io/github/sponsors/anonymmouscoder)
+![GitHub License](https://img.shields.io/github/license/anonymmouscoder/Coding-Daily)
 
 ## Salut toi ! 👋
 Je suis ravi de vous annoncer le lancement de mon tout premier projet de 2024 : l'application Coding Daily. 
@@ -13,7 +14,9 @@ Vous vous demandez sûrement ce que c'est, n'est-ce pas ? Eh bien, l'idée m'est
 > [!CAUTION]
 > **Si vous avez installé déjà une ancienne version veuillez le désinstaller avant d'installer la nouvelle version**
 
-[![Téléchargements](https://img.shields.io/github/downloads/anonymmouscoder/Coding-Daily/appv4-4-10/total)](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appv4-4-10/codingdaily.4-10.apk) [![Téléchargements](https://img.shields.io/github/downloads/anonymmouscoder/Coding-Daily/appv4-11-13/total)](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appv4-11-13/codingdaily10-13.apk) 
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/anonymmouscoder/Coding-Daily/appv4-4-10/total?style=flat-square&label=T%C3%A9l%C3%A9chargements%20Android%20%5B4.0%20%C3%A0%2010.0%5D)
+ ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/anonymmouscoder/Coding-Daily/appv4-11-13/total?style=flat-square&label=T%C3%A9l%C3%A9chargements%20Android%20%5B11.0%20%C3%A0%2014.0%5D)
+
 
 ### :iphone: Version Android [4.0 à 10.0]
 1. [Cliquez ici pour télécharger la version 1.0.4](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appv4-4-10/codingdaily.4-10.apk) 
