@@ -35,7 +35,7 @@ Vous vous demandez sûrement ce que c'est, n'est-ce pas ? Eh bien, l'idée m'est
 - [x] Prise en charge mode nuit
 - [x] Mettre en favoris(hors connexion)
 - [x] Ergonomie globale(UI repensée)
-- [ ] Obtenir 25$ de donation :bowtie:
+- [ ] Obtenir 25$ de donation 
 
 > Je publierai chaque semaine un nouvel article, donc une fois que vous l'aurez installée, n'hésitez pas à revenir régulièrement pour découvrir les nouveautés.
 
