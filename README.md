@@ -11,15 +11,23 @@ Je suis ravi de vous annoncer le lancement de mon tout premier projet de 2024 : 
 Vous vous demandez sûrement ce que c'est, n'est-ce pas ? Eh bien, l'idée m'est venue de créer une application où je partagerai des tutoriels, des guides et des messages d'inspiration pour les développeurs, qu'ils soient débutants ou seniors.
 
 ## 📲 Comment l'installer ?
+**⚠️ Infos: Si vous avez installé déjà une ancienne version veuillez le dèsinstaller avant d'installer la nouvelle version**
 
-Cliquez ici pour télécharger la dernière version 1.0.2: [clique moi pour installer](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appsv2-stable/codingdailyV2.1.apk).
+# Version Android [4.0 à 10.0]
+1. [Cliquez ici pour télécharger la version 1.3](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appv3-4-10/android.4-10.apk)
+2. Ouvrez le fichier téléchargé (`android.4-10.apk`) depuis la barre de notification ou le gestionnaire de téléchargement.
+3. Cliquez sur le fichier pour lancer le processus d'installation.
+4. Vous pourriez recevoir une notification indiquant que l'installation depuis une source inconnue n'est pas autorisée. Accordez les autorisations nécessaires dans les paramètres de sécurité pour continuer.
+5. Suivez les instructions à l'écran pour terminer l'installation.
 
-### ✨ Nouvelle version:
-- [Coding Daily V1.2](https://github.com/anonymmouscoder/Coding-Daily/releases/tag/appsv2-stable).
+# Version Android [11.0 à 14.0]
+1. [Cliquez ici pour télécharger la version 1.2](https://github.com/anonymmouscoder/Coding-Daily/releases/tag/appsv2-stable)
+2. Ouvrez le fichier téléchargé depuis la barre de notification ou le gestionnaire de téléchargement.
+3. Cliquez sur le fichier pour lancer le processus d'installation.
+4. Vous pourriez recevoir une notification indiquant que l'installation depuis une source inconnue n'est pas autorisée. Accordez les autorisations nécessaires dans les paramètres de sécurité pour continuer.
+5. Suivez les instructions à l'écran pour terminer l'installation.
 
-### 🥀 Ancienne version (Obsolète):
-- [Coding Daily V1.1](https://github.com/anonymmouscoder/Coding-Daily/releases/tag/apps).
-- [Coding Daily V1.0](https://t.me/gestionnaire_fichierbot?start=1869143336AgAD6xMAAljOmVA).
+
 
 💡 Je publierai chaque semaine un nouvel article, donc une fois que vous l'aurez installée, n'hésitez pas à revenir régulièrement pour découvrir les nouveautés.
 
