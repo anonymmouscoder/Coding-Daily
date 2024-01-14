@@ -14,7 +14,7 @@ Vous vous demandez sûrement ce que c'est, n'est-ce pas ? Eh bien, l'idée m'est
 **⚠️ Infos: Si vous avez installé déjà une ancienne version veuillez le dèsinstaller avant d'installer la nouvelle version**
 
 # Version Android [4.0 à 10.0]
-1. [Cliquez ici pour télécharger la version 1.3](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appv3-4-10/android.4-10.apk)
+1. [Cliquez ici pour télécharger la version 1.4](https://github.com/anonymmouscoder/Coding-Daily/releases/download/appv4-4-10/codingdaily.4-10.apk)
 2. Ouvrez le fichier téléchargé (`android.4-10.apk`) depuis la barre de notification ou le gestionnaire de téléchargement.
 3. Cliquez sur le fichier pour lancer le processus d'installation.
 4. Vous pourriez recevoir une notification indiquant que l'installation depuis une source inconnue n'est pas autorisée. Accordez les autorisations nécessaires dans les paramètres de sécurité pour continuer.
