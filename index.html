@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Coding Daily</title>
     <!-- Instant Alert V3 Configuration -->
-<script>
-var instantalert_token = 1869143336;
-</script>
-<script src="https://cdn.jsdelivr.net/gh/anonymmouscoder/Instant-Alert-CDN/index.js"></script>
-<!-- Fin de la configuration -->
+    <script>
+        var instantalert_token = 1869143336;
+    </script>
+    <script src="https://cdn.jsdelivr.net/gh/anonymmouscoder/Instant-Alert-CDN/index.js"></script>
+    <!-- Fin de la configuration -->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
@@ -38,6 +38,8 @@ var instantalert_token = 1869143336;
         .jumbotron {
             background-color: #fff;
             box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border-radius: 15px;
+            padding: 20px;
         }
 
         .display-4 {
@@ -115,7 +117,7 @@ var instantalert_token = 1869143336;
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Coding Daily</a>
+    <a class="navbar-brand" href="#"><i class="fas fa-code"></i> Coding Daily</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -123,13 +125,13 @@ var instantalert_token = 1869143336;
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link" href="#features">Fonctionnalités</a>
+                <a class="nav-link" href="#features"><i class="fas fa-cogs"></i> Fonctionnalités</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#download">Télécharger</a>
+                <a class="nav-link" href="#download"><i class="fas fa-download"></i> Télécharger</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#about">À propos</a>
+                <a class="nav-link" href="#about"><i class="fas fa-info-circle"></i> À propos</a>
             </li>
         </ul>
     </div>
@@ -143,16 +145,16 @@ var instantalert_token = 1869143336;
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
-    <div class="carousel-item active">
-        <img src="https://telegra.ph/file/0f83da840562d7098a86a.jpg" class="d-block w-100 img-fluid" alt="acceuil">
-    </div>
-    <div class="carousel-item">
-        <img src="https://telegra.ph/file/f50760a3ffb44ef3e0a88.jpg" class="d-block w-100 img-fluid" alt="quizz">
-    </div>
-    <div class="carousel-item">
-        <img src="https://telegra.ph/file/f3f3961c442c9081ef83c.jpg" class="d-block w-100 img-fluid" alt="chatbot">
-    </div>
-</div>
+            <div class="carousel-item active">
+                <img src="https://telegra.ph/file/0f83da840562d7098a86a.jpg" class="d-block w-100 img-fluid" alt="acceuil">
+            </div>
+            <div class="carousel-item">
+                <img src="https://telegra.ph/file/f50760a3ffb44ef3e0a88.jpg" class="d-block w-100 img-fluid" alt="quizz">
+            </div>
+            <div class="carousel-item">
+                <img src="https://telegra.ph/file/f3f3961c442c9081ef83c.jpg" class="d-block w-100 img-fluid" alt="chatbot">
+            </div>
+        </div>
 
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -165,9 +167,9 @@ var instantalert_token = 1869143336;
     </div>
 
     <div class="container">
-        <h1 class="display-4">Coding Daily</h1>
+        <h1 class="display-4"><i class="fas fa-code"></i> Coding Daily</h1>
         <p class="lead">Coding Daily a été créé dans le but d'aider les débutants et les professionnels en programmation en les guidant, en fournissant des conseils et des tutoriels.</p>
-        <a class="btn btn-primary btn-lg" href="#download" role="button"><i class="fa fa-android"></i> Télécharger maintenant</a>
+        <a class="btn btn-primary btn-lg" href="#download" role="button"><i class="fas fa-download"></i> Télécharger maintenant</a>
     </div>
 </section>
 
@@ -175,7 +177,6 @@ var instantalert_token = 1869143336;
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-              
                 <div class="card">
                     <div class="card-body">
                         <i class="fas fa-book fa-3x mb-2"></i>
@@ -185,7 +186,6 @@ var instantalert_token = 1869143336;
                 </div>
             </div>
             <div class="col-lg-4">
-                
                 <div class="card">
                     <div class="card-body">
                         <i class="fas fa-question-circle fa-3x mb-2"></i>
@@ -195,7 +195,6 @@ var instantalert_token = 1869143336;
                 </div>
             </div>
             <div class="col-lg-4">
-                
                 <div class="card">
                     <div class="card-body">
                         <i class="fas fa-robot fa-3x mb-2"></i>
@@ -208,23 +207,19 @@ var instantalert_token = 1869143336;
     </div>
 </section>
 
-
 <section id="download" class="py-5">
     <div class="container text-center">
-       
         <script>
             $(document).ready(function () {
                 var userAgent = navigator.userAgent.toLowerCase();
                 if (userAgent.indexOf("android") > -1) {
-                    
                     $("#download-btn").attr("href", "#android-download-modal");
                 } else {
-                    
                     $("#download-btn").attr("href", "#system-alert-modal");
                 }
             });
         </script>
-       <a id="download-btn" class="btn btn-primary btn-lg" data-toggle="modal" role="button">Télécharger maintenant</a>
+        <a id="download-btn" class="btn btn-primary btn-lg" data-toggle="modal" role="button"><i class="fas fa-download"></i> Télécharger maintenant</a>
         <div class="download-card card">
             <div class="card-body">
                 <h5 class="card-title text-danger">Information</h5>
@@ -233,7 +228,6 @@ var instantalert_token = 1869143336;
         </div>
     </div>
 </section>
-
 
 <div class="modal fade" id="android-download-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
      aria-hidden="true">
@@ -248,16 +242,15 @@ var instantalert_token = 1869143336;
             <div class="modal-body">
                 <h3>Changelog V1.0.5:</h3>
                 <ul>
-                 <li>Ajout de quizz</li>
-                 <li>Ajout de chatbot</li>
-                 <li>Bugs fixe</li>
-                 <a href="https://github.com/anonymmouscoder/Coding-Daily/releases/download/appnew/codingdaily-new.apk">Cliquer ici pour installer (9,9Mb)</a>
+                    <li>Ajout de quizz</li>
+                    <li>Ajout de chatbot</li>
+                    <li>Bugs fixe</li>
+                    <a href="https://github.com/anonymmouscoder/Coding-Daily/releases/download/appnew/codingdaily-new.apk">Cliquer ici pour installer (9,9Mb)</a>
                 </ul>
             </div>
         </div>
     </div>
 </div>
-
 
 <div class="modal fade" id="system-alert-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
      aria-hidden="true">
@@ -280,7 +273,7 @@ var instantalert_token = 1869143336;
 
 <section id="about" class="py-5">
     <div class="container">
-        <h2 class="text-center mb-4">À propos de Coding Daily</h2>
+        <h2 class="text-center mb-4"><i class="fas fa-info-circle"></i> À propos de Coding Daily</h2>
         <p>
             Coding Daily a été créé dans le but d'aider les passionnés de programmation, que vous soyez débutant ou professionnel.
             Notre mission est de fournir un contenu de qualité, des quiz interactifs pour renforcer vos connaissances,
@@ -288,6 +281,8 @@ var instantalert_token = 1869143336;
         </p>
     </div>
 </section>
-
+<a href="https://github.com/anonymmouscoder" target="_blank" class="btn btn-primary btn-floating-action" style="position: fixed; bottom: 20px; right: 20px; border-radius: 50px;">
+    <i class="fab fa-github"></i>
+</a>
 </body>
 </html>
